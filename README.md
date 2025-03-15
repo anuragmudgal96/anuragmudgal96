@@ -27,6 +27,5 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/anurag.mudgal/)](https://public.tableau.com/profile/anurag.mudgal/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/anuragmudgal96/)](https://github.com/anuragmudgal96) 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/anuragmudgal96)](https://www.kaggle.com/anuragmudgal96) 
-[![Twitter Badge](https://img.shields.io/twitter/follow/:anurag)](https://x.com/anuragmspeaks) 
 
 
