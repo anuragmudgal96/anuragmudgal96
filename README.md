@@ -9,7 +9,7 @@
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/anuragmudgal96/portfolio-guide).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/anuragmudgal96/portfolio-guide/blob/main/README.md).
 
 ### :briefcase: Tools
 
