@@ -10,7 +10,7 @@ Welcome to my portfolio, where I showcase my **[projects](https://github.com/anu
 - Power BI (DAX, Data Modeling, Power Query, Report Design)
 - SQL Server (T-SQL, Stored Procedures, Data Marts, ETL)
 - Microsoft Fabric (Dataflows Gen2, Pipelines, Lakehouse, Semantic Models)
-- Data Warehousing concepts – Star Schema, SCD, Medallion Architecture
+- Data Warehousing concepts : Star Schema, SCD, Medallion Architecture
 - Dashboard automation, KPI tracking, performance optimization
 
 
