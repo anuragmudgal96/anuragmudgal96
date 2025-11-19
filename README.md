@@ -2,22 +2,17 @@
 
 <p>I’m a data professional with experience working in the IT domain and marketing analysis areas, with expertise in data analysis and reporting, query optimization, database design, and data modeling.</p>
 
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my **[projects](https://github.com/anuragmudgal96/portfolio-guide/blob/main/README.md)** that highlight the ___highly transferable skills___ I’ve developed.
+
+### :briefcase: Tools
 - Power BI (DAX, Data Modeling, Power Query, Report Design)
 - SQL Server (T-SQL, Stored Procedures, Data Marts, ETL)
 - Microsoft Fabric (Dataflows Gen2, Pipelines, Lakehouse, Semantic Models)
 - Data Warehousing concepts – Star Schema, SCD, Medallion Architecture
 - Dashboard automation, KPI tracking, performance optimization
 
-### 📚 Projects
-
-Welcome to my portfolio, where I showcase my **[projects](https://github.com/anuragmudgal96/portfolio-guide/blob/main/README.md)** that highlight the ___highly transferable skills___ I’ve developed.
-
-### :briefcase: Tools
-
-- Language: SQL, Python
-- Database: SQL Server, PostgreSQL, MySQL, SQLite3
-- Visualization: Power BI, Tableau
-- MS-Excel: VLookup,Conditional Formatting, CountIf etc.
 
 ----
 
