@@ -2,10 +2,11 @@
 
 <p>I’m a data professional with experience working in the IT domain and marketing analysis areas, with expertise in data analysis and reporting, query optimization, database design, and data modeling.</p>
 
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Power BI and Tableau.
-- Data analysis and reporting using Google Sheets, MS-PPT and Excel.
+- Power BI (DAX, Data Modeling, Power Query, Report Design)
+- SQL Server (T-SQL, Stored Procedures, Data Marts, ETL)
+- Microsoft Fabric (Dataflows Gen2, Pipelines, Lakehouse, Semantic Models)
+- Data Warehousing concepts – Star Schema, SCD, Medallion Architecture
+- Dashboard automation, KPI tracking, performance optimization
 
 ### 📚 Projects
 
